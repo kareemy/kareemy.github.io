@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Tyrannosaurus rex",
+    "length": "40 feet long",
+    "description": "The Tyrannosaurus rex, often abbreviated as T. rex, was a fearsome carnivorous dinosaur that lived during the Late Cretaceous period, about 68 to 66 million years ago. It was one of the largest land predators with massive jaws filled with sharp teeth and tiny, non-functional arms.",
+    "img_src": "https://kareemy.github.io/NPneFu3h80KdK7XXJDOEnw/SgalYPjEEEmhjcgstHfUQA.jpg"
+  },
+  {
+    "name": "Brontosaurus,
+    "length": "66.5 feet long",
+    "description": "The Brontosaurus was a massive, herbivorous dinosaur that lived during the Late Jurassic period, about 150 million years ago. It had a long neck and tail, a large body, and walked on four sturdy legs. Despite its impressive size, it was a peaceful, plant-eating dinosaur that likely fed on vegetation in ancient forests.",
+    "img_src": "https://kareemy.github.io/NPneFu3h80KdK7XXJDOEnw/SgalYPjEEEmhjcgstHfUQA.jpg"
+  },
+  {
+    "name": "Stegosaurus",
+    "length": "30 feet long",
+    "description": "The Stegosaurus was a herbivorous dinosaur that lived during the Late Jurassic period, approximately 155 to 150 million years ago. It was known for its distinctive double row of large bony plates along its back and the spiked tail, or \"thagomizer,\" which it likely used for defense against predators.",
+    "img_src": "https://kareemy.github.io/NPneFu3h80KdK7XXJDOEnw/PZ9p9oPdlUKBHfRvwYHjsQ.jpg"
+  },
+  {
+    "name": "Triceratops",
+    "length": "30 feet long",
+    "description": "The Tyrannosaurus rex, often abbreviated as T. rex, was a fearsome carnivorous dinosaur that lived during the Late Cretaceous period, about 68 to 66 million years ago. It was one of the largest land predators, reaching up to 40 feet in length, with massive jaws filled with sharp teeth and tiny, non-functional arms.",
+    "img_src": "https://kareemy.github.io/NPneFu3h80KdK7XXJDOEnw/hh1OwizpJEaEzN6rwj2tyA.jpg"
+  },
+  {
+    "name": "Velociraptor",
+    "length": "6 feet long",
+    "description": "Velociraptor was a small, agile carnivorous dinosaur from the Cretaceous period. It had a sleek body, sharp claws, and a keen sense of hunting. It is famous for its role in the movie \"Jurassic Park,\" although it was much smaller in reality, about the size of a turkey.",
+    "img_src": "https://kareemy.github.io/NPneFu3h80KdK7XXJDOEnw/thJvYbpnkkmAhQhBdec8UQ.jpg"
+  },
+  {
+    "name": "Pterodactyl",
+    "length": "36 feet wingspan",
+    "description": "The Pterodactyl, or more accurately, the Pterosaur, was not a dinosaur but a flying reptile from the time of dinosaurs. It had a wingspan of various sizes, some as large as a small airplane, and it soared through prehistoric skies hunting for fish and other prey with its sharp beak.",
+    "img_src": "https://kareemy.github.io/NPneFu3h80KdK7XXJDOEnw/n7ewb6syj06o2FErym1Kig.jpg"
+  }
+]
